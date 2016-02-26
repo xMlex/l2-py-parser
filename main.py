@@ -1,11 +1,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys, os.path, sqlite3 as sql
+import sys, os.path, types, sqlite3 as sql
 import glob
 from subprocess import call
 from os.path import basename
 import urllib.request, urllib.parse, urllib.error
+import sql_helper, parsers
+
+#for i in dir(parsers): print(i)
+
+sys.exit(0)
 
 CONVERT_FILES = False
 
@@ -34,7 +39,7 @@ def safe_str(name):
 	return 'NO NAME'
 
 def safe_icon(name):
-	return safe_str(name.lower().replace("branchsys.icon.", "").replace("branchsys2.icon2.", "").replace("branchsys2.icon.", "").replace("br_cashtex.item.", "").replace("icon.", "").replace("br_cashtex.item.", "").replace("branchsys.", "").replace("branchsys2.", ""))
+	return safe_str(name.lower().replace("branchsys.icon.", "").replace("branchsys2.icon2.", "").replace("branchsys2.icon.", "").replace("br_cashtex.item.", "").replace("icon.", "").replace("br_cashtex.item.", "").replace("branchsys.", "").replace("branchsys2.", "").replace('icon.',''))
 
 def save_icon(name):
 	f_name = "icons/"+name+".png"
@@ -120,6 +125,27 @@ try:
 	sys.stdout.write('Weapon Group ... ')
 	i = parse_group_icon('dat/weapongrp.txt',struct,update_item_icon)
 	print('%s' % i)
+
+	# Actions
+	sys.stdout.write('Actions ... ')
+	sql_helper.create_table('actions', 'id integer,category integer, name string, description string, icon string, skill string', cur)
+	insert = 'INSERT INTO actions VALUES(?,?,?,?,?,?)'
+	struct = {'id':1,'category':3, 'name': 777, 'icon': 778,'descr': 779,'skill': 780}
+	f = open('dat/actionname-e.txt', 'r')
+	i = 0;
+	for l in f:
+		i += 1;
+		e = l.split("\t")
+		icon = safe_icon(e[struct['icon']])
+		name = safe_str(e[struct['name']])
+		descr = safe_str(e[struct['descr']])
+		cur.execute(insert,(e[struct['id']],e[struct['category']],name,descr,icon,e[struct['skill']]))
+	sql_helper.create_index('actions','id',cur)
+	print('%s' % i)
+
+
+	# Castles
+	strunct = {'nbr'	'tag'	'id'	'castle_name'	'location'	'desc'}
 
 	print('All files parsed')
 except BaseException as e:
