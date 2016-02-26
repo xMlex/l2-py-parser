@@ -2,7 +2,30 @@
 # -*- coding: utf-8 -*-
 
 import sys, os.path, sqlite3 as sql
+import glob
+from subprocess import call
+from os.path import basename
 import urllib.request, urllib.parse, urllib.error
+
+CONVERT_FILES = False
+
+# Convert files
+if CONVERT_FILES:
+	chronicle = 'Interlude'
+	current_dir = os.getcwd()
+	dat_files = glob.glob("utils/dat/*.dat")
+
+	for f in dat_files:
+		f_name = os.path.splitext(basename(f))[0]
+		ddf_file = '%s/utils/l2asm-disasm/DAT_defs/%s/%s.ddf' % (current_dir,chronicle,f_name)
+		ddf_file_new = '%s/utils/l2asm-disasm/DAT_defs/%s/%s.ddf' % (current_dir,chronicle,f_name+'-new')
+		decode_file = '%s/dat/%s.dat' % (current_dir,f_name)
+		clear_file = '%s/dat/%s.txt' % (current_dir,f_name.lower())
+		cmd_decode = "wine utils/l2encdec/l2encdec_old.exe -s %s/%s %s" % (current_dir,f,decode_file)
+		cmd_format = 'wine utils/l2asm-disasm/l2disasm.exe -d %s -e %s %s %s' % (ddf_file, ddf_file_new, decode_file, clear_file)
+		os.system(cmd_decode)
+		os.system(cmd_format)
+		os.remove(decode_file)
 
 # functions
 def safe_str(name):
@@ -71,7 +94,7 @@ try:
 	insert = 'INSERT INTO npc VALUES(?,?,?)'
 
 	struct = {'id':0,'name':1,'descr':2}
-	f = open('dat/NpcName-e.txt', 'r')
+	f = open('dat/npcname-e.txt', 'r')
 	for l in f:
 		e = l.split("\t")
 		name = safe_str(e[struct['name']])
@@ -98,9 +121,9 @@ try:
 	i = parse_group_icon('dat/weapongrp.txt',struct,update_item_icon)
 	print('%s' % i)
 
-	print('All files parse')
+	print('All files parsed')
 except BaseException as e:
-	print("Error %s:" % e.args[0])
+	print("Error %s:" % e)
 	sys.exit(1)
 finally:
   if con:

@@ -1,0 +1,14 @@
+id	text
+1	a,923\0
+2	a,bitch\0
+3	a,chink\0
+4	a,chutney\0
+5	a,cock\0
+6	a,cunt\0
+7	a,fag\0
+8	a,fuck\0
+9	a,gay\0
+10	a,gook\0
+11	a,nickelback\0
+12	a,nigger\0
+13	a,shit\0

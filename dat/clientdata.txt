@@ -1,0 +1,16 @@
+id	desc
+1	a,LineageMonstersTex.Crimson_Doll_T00\0
+2	a,LineageMonstersTex.Batur_Orc_T00_01\0
+3	a,LineageMonstersTex3.Chaos_Golem_T01\0
+4	a,LineageMonstersTex2.Ifrit_T02_Ori\0
+5	a,LineageMonstersTex2.Bionic_Bear_T01_Ori\0
+6	a,LineageMonstersTex.Grave_T01\0
+7	a,LineageMonstersTex.Batur_Orc_Archer_T00\0
+8	a,LineageMonstersTex.Hunter_Gargoyle_T01\0
+9	a,LineageMonstersTex2.Northern_Goblin_T00\0
+10	a,LineageMonstersTex.Binding_T00\0
+11	a,LineageMonstersTex.Kel_Mahum_Archer_T01\0
+12	a,LineageMonstersTex3.Apostle_Grail_T02\0
+13	a,LineageMonstersTex.Marsh_Stakato_T00\0
+14	a,LineageMonstersTex2.Brain_Buster_T00_Ori\0
+15	a,LineageMonstersTex.Bugbear_T01\0

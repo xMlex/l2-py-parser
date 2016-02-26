@@ -1,0 +1,2049 @@
+id	name
+0	a,
+1	a,Equipment\0
+2	a,Item\0
+3	a,Quest Item\0
+4	a,Bronze\0
+5	a,Steel\0
+6	a,Wood\0
+7	a,Bone\0
+8	a,Cloth\0
+9	a,Leather\0
+10	a,Cotton\0
+11	a,Fine Steel\0
+12	a,Oriharukon\0
+13	a,Damascus\0
+14	a,Adamantaite\0
+15	a,Blood Steel\0
+16	a,Paper\0
+17	a,Chrysolite\0
+18	a,Silver\0
+19	a,Gold\0
+20	a,Adamantaite\0
+21	a,Mithril\0
+22	a,Horn\0
+23	a,Born of Dragon\0
+24	a,Crystal\0
+25	a,Dyestuff\0
+26	a,Cobweb\0
+27	a,None\0
+28	a,Underwear\0
+29	a,Rear\0
+30	a,Lear\0
+31	a,Neck\0
+32	a,Rfinger\0
+33	a,Lfinger\0
+34	a,Head\0
+35	a,Rhand\0
+36	a,Lhand\0
+37	a,Gloves\0
+38	a,Chest\0
+39	a,Legs\0
+40	a,Feet\0
+41	a,Back\0
+42	a,Lrhand\0
+43	a,Sword\0
+44	a,Blunt\0
+45	a,Dagger\0
+46	a,Pole\0
+47	a,Fist\0
+48	a,Bow\0
+49	a,Etc\0
+50	a,Name\0
+51	a,Slot\0
+52	a,Weight\0
+53	a,Material\0
+54	a,P. Def.\0
+55	a,P. Atk.\0
+56	a,Weapon Type\0
+57	a,Description\0
+58	a,Air\0
+59	a,Branch of Orbis Arbor\0
+60	a,Branch of Worldtree\0
+61	a,Brass\0
+62	a,Corpse\0
+63	a,Crow\0
+64	a,Diamond\0
+65	a,Drug\0
+66	a,Eyeball\0
+67	a,Feather\0
+68	a,Flax\0
+69	a,Fur\0
+70	a,Hatching Egg\0
+71	a,Insect\0
+72	a,Leather of Dragon\0
+73	a,Leather of Drake\0
+74	a,Leather of Lion\0
+75	a,Leather of Manticore\0
+76	a,Leather of Puma\0
+77	a,Leather of Salamander\0
+78	a,Leather of Unicorn\0
+79	a,Liquid\0
+80	a,Parchment\0
+81	a,Sand\0
+82	a,Scale of Dragon\0
+83	a,Silk\0
+84	a,Skull\0
+85	a,Skull of Wyvern\0
+86	a,Water\0
+87	a,Wool\0
+88	a,Lv\0
+89	a,Exp\0
+90	a,HP\0
+91	a,MP\0
+92	a,SP\0
+93	a,Combat\0
+94	a,P. Atk.\0
+95	a,P. Def.\0
+96	a,Accuracy\0
+97	a,Evasion\0
+98	a,M.Atk.\0
+99	a,M. Def.\0
+100	a,Social\0
+101	a,Karma\0
+102	a,PvP/PK\0
+103	a,Basic\0
+104	a,STR\0
+105	a,DEX\0
+106	a,CON\0
+107	a,INT\0
+108	a,WIT\0
+109	a,MEN\0
+110	a,2nd Attributes\0
+111	a,Atk. Spd.\0
+112	a,Casting Spd.\0
+113	a,Crit. Rate\0
+114	a,Load\0
+115	a,Condition\0
+116	a,Equip\0
+117	a,Item\0
+118	a,Quest\0
+119	a,Skills\0
+120	a,Active\0
+121	a,Passive\0
+122	a,Spells\0
+123	a,I\0
+124	a,II\0
+125	a,III\0
+126	a,IV\0
+127	a,Actions\0
+128	a,@Clan\0
+129	a,Basic\0
+130	a,Party\0
+131	a,Warehouse\0
+132	a,Stored Items\0
+133	a,Items to Retrieve\0
+134	a,Adena\0
+135	a,Fee\0
+136	a,Store\0
+137	a,Items on Sale\0
+138	a,Inventory\0
+139	a,Items to Buy\0
+140	a,OK\0
+141	a,Cancel\0
+142	a,Price\0
+143	a,Price\0
+144	a,All\0
+145	a,Help\0
+146	a,Options\0
+147	a,Restart\0
+148	a,Exit Game\0
+149	a,Log In\0
+150	a,ID\0
+151	a,PWD\0
+152	a,Log In\0
+153	a,Exit\0
+154	a,New Account\0
+155	a,Lost Account\0
+156	a,Options\0
+157	a,Select Character\0
+158	a,Create\0
+159	a,Delete\0
+160	a,Start\0
+161	a,Previous\0
+162	a,Create Character\0
+163	a,Name\0
+164	a,Race\0
+165	a,Class\0
+166	a,Gender\0
+167	a,Hairstyle\0
+168	a,Hair Color\0
+169	a,Face\0
+170	a,Human\0
+171	a,Elf\0
+172	a,Dark Elf\0
+173	a,Orc\0
+174	a,Dwarf\0
+175	a,Fighter\0
+176	a,Mystic\0
+177	a,Male\0
+178	a,Female\0
+179	a,Type A\0
+180	a,Type B\0
+181	a,Type C\0
+182	a,Type D\0
+183	a,Select\0
+184	a,Yes\0
+185	a,No\0
+186	a,Type E\0
+187	a,Type F\0
+188	a,#Party\0
+189	a,Material\0
+190	a,Price\0
+191	a,Name\0
+192	a,Quantity\0
+193	a,System (Alt+X)\0
+194	a,Status (Alt+T)\0
+195	a,Inventory (Alt+V)\0
+196	a,Skills & Magic (Alt+K)\0
+197	a,Actions (Alt+C)\0
+198	a,Quests (Alt+U)\0
+199	a,Communication\0
+200	a,Party Info\0
+201	a,Clan Info\0
+202	a,Buddy Informaion\0
+203	a,Edit Profile\0
+204	a,Social\0
+205	a,Options\0
+206	a,Video\0
+207	a,Audio\0
+208	a,Game\0
+209	a,Resolution\0
+210	a,Gamma\0
+211	a,Texture\0
+212	a,Shadows\0
+213	a,Ground Detail\0
+214	a,Terrain Range\0
+215	a,PC/NPC Range\0
+216	a,SFX Vol.\0
+217	a,Music Vol.\0
+218	a,Apply\0
+219	a,800*600 32bit\0
+220	a,1024*768 32bit\0
+221	a,1280*960 32bit\0
+222	a,1280*1024 32bit\0
+223	a,1600*1200 32bit\0
+224	a,High\0
+225	a,Average\0
+226	a,Low\0
+227	a,On\0
+228	a,Off\0
+229	a,Underwear\0
+230	a,Headgear\0
+231	a,Shield\0
+232	a,Gloves\0
+233	a,Boots\0
+234	a,Cloak\0
+235	a,Upper Body\0
+236	a,Lower Body\0
+237	a,Earring\0
+238	a,Necklace\0
+239	a,Ring\0
+240	a,Quest Item\0
+241	a,Money\0
+242	a,One Handed\0
+243	a,Two Handed\0
+244	a,Robe\0
+245	a,Light\0
+246	a,Heavy\0
+247	a,Human Fighter\0
+248	a,Warrior\0
+249	a,Gladiator\0
+250	a,Warlord\0
+251	a,Human Knight\0
+252	a,Paladin\0
+253	a,Dark Avenger\0
+254	a,Rogue\0
+255	a,Treasure Hunter\0
+256	a,Hawkeye\0
+257	a,Human Mystic\0
+258	a,Human Wizard\0
+259	a,Sorcerer\0
+260	a,Necromancer\0
+261	a,Warlock\0
+262	a,Cleric\0
+263	a,Bishop\0
+264	a,Prophet\0
+265	a,Elven Fighter\0
+266	a,Elven Knight\0
+267	a,Temple Knight\0
+268	a,Sword Singer\0
+269	a,Elven Scout\0
+270	a,Plains Walker\0
+271	a,Silver Ranger\0
+272	a,Elven Mystic\0
+273	a,Elven Wizard\0
+274	a,Spellsinger\0
+275	a,Elemental Summoner\0
+276	a,Elven Oracle\0
+277	a,Elven Elder\0
+278	a,Dark Fighter\0
+279	a,Palus Knight\0
+280	a,Shillien Knight\0
+281	a,Bladedancer\0
+282	a,Assassin\0
+283	a,Abyss Walker\0
+284	a,Phantom Ranger\0
+285	a,Dark Mystic\0
+286	a,Dark Wizard\0
+287	a,Spellhowler\0
+288	a,Phantom Summoner\0
+289	a,Shillien Oracle\0
+290	a,Shillien Elder\0
+291	a,Orc Fighter\0
+292	a,Orc Raider\0
+293	a,Destroyer\0
+294	a,Monk\0
+295	a,Tyrant\0
+296	a,Orc Mystic\0
+297	a,Orc Shaman\0
+298	a,Overlord\0
+299	a,Warcryer\0
+300	a,Dwarven Fighter\0
+301	a,Scavenger\0
+302	a,Bounty Hunter\0
+303	a,Artisan\0
+304	a,Warsmith\0
+305	a,Graphic Cursor\0
+306	a,Very Fast\0
+307	a,Fast\0
+308	a,Normal\0
+309	a,Slow\0
+310	a,Very Slow\0
+311	a,Active Skill\0
+312	a,Passive Skill\0
+313	a,Magic\0
+314	a,Clan\0
+315	a,M. Atk.\0
+316	a,Atk. Spd.\0
+317	a,DEF Rate\0
+318	a,Dodge\0
+319	a,M. Def.\0
+320	a,MP Cost\0
+321	a,Range\0
+322	a,Price\0
+323	a,M. Def.\0
+324	a,Accepted Quest\0
+325	a,Description\0
+326	a,Item\0
+327	a,Cancel\0
+328	a,Announcements\0
+329	a,Language\0
+330	a,Invite\0
+331	a,Title\0
+332	a,Set Crest\0
+333	a,Battle\0
+334	a,Truce\0
+335	a,Surrender\0
+336	a,Yield\0
+337	a,Leave\0
+338	a,Dismiss\0
+339	a,In Siege\0
+340	a,In War\0
+341	a,Dispersing\0
+342	a,Leader\0
+343	a,Base\0
+344	a,Hideout Exists\0
+345	a,Castle Exists\0
+346	a,Status\0
+347	a,On\0
+348	a,Out\0
+349	a,Protecting Castle\0
+350	a,Reflection\0
+351	a,Refresh Rate\0
+352	a,Reflections\0
+353	a,All\0
+354	a,Sky\0
+355	a,+Trade\0
+356	a,System\0
+357	a,Damage\0
+358	a,Chat\0
+359	a,Shout\0
+360	a,Clan\0
+361	a,Party\0
+362	a,Trade\0
+363	a,Whisper\0
+364	a,Skill List\0
+365	a,Required SP\0
+366	a,Skill explanation\0
+367	a,Learning condition\0
+368	a,Learn\0
+369	a,List\0
+370	a,Lower Detail\0
+371	a,Unacquired state\0
+372	a,To Village\0
+373	a,To Siege HQ\0
+374	a,To Clan Hall\0
+375	a,To Castle\0
+376	a,Effect\0
+377	a,Top\0
+378	a,Up\0
+379	a,Favorite\0
+380	a,Add Fav.\0
+381	a,Region\0
+382	a,Clan\0
+383	a,General\0
+384	a,Message\0
+385	a,Abort\0
+386	a,<Private Store>\0
+387	a,Community\0
+388	a,MP Increase\0
+389	a,Party\0
+390	a,Community (Alt+B)\0
+391	a,Cls\0
+392	a,Lv\0
+393	a,Name\0
+394	a,Range\0
+395	a,P/S\0
+396	a,Invite\0
+397	a,Options\0
+398	a,Whisper\0
+399	a,Target\0
+400	a,Auto Join\0
+401	a,Show Level\0
+402	a,Show Class\0
+403	a,Memo\0
+404	a,Soulshot Used\0
+405	a,Short\0
+406	a,Mid\0
+407	a,Long\0
+408	a,Leader\0
+409	a,Member\0
+410	a,Solo\0
+411	a,Not open\0
+412	a,Type\0
+413	a,Title\0
+414	a,Registered\0
+415	a,Administrator\0
+416	a,No.\0
+417	a,Author\0
+418	a,Date\0
+419	a,Read\0
+420	a,Search\0
+421	a,Write\0
+422	a,View List\0
+423	a,Enter\0
+424	a,Change\0
+425	a,Delete\0
+426	a,Reply\0
+427	a,Body\0
+428	a,Start\0
+429	a,Msg.\0
+430	a,Clan\0
+431	a,No Clan\0
+432	a,Speed\0
+433	a,Status\0
+434	a,Character Status (Alt+I)\0
+435	a,Display\0
+436	a,Player\0
+437	a,Monsters\0
+438	a,Other PCs\0
+439	a,Clan\0
+440	a,Party\0
+441	a,General\0
+442	a,Enter Chat\0
+443	a,Use\0
+444	a,Chat\0
+445	a,Exchange\0
+446	a,System Menu\0
+447	a,Map\0
+448	a,Tutorial\0
+449	a,Choose Server\0
+450	a,Race\0
+451	a,Name\0
+452	a,Traffic\0
+453	a,PvP\0
+454	a,Age Limit\0
+455	a,Open Beta Server\0
+456	a,Down\0
+457	a,Normal\0
+458	a,Heavy\0
+459	a,On\0
+460	a,Off\0
+461	a,Over 18 years\0
+462	a,Over 15 years\0
+463	a,Tracking\0
+464	a,Texture Filter\0
+465	a,Fixed\0
+466	a,Light\0
+467	a,Heavy\0
+468	a,For Each\0
+469	a,Adena\0
+470	a,Petition\0
+471	a,Current Position\0
+472	a,Petition - GM\0
+473	a,Cancel\0
+474	a,Begin Consultation\0
+475	a,End Consultation\0
+476	a,Consultation\0
+477	a,Skill Trainer\0
+478	a,Interface\0
+479	a,Initialize\0
+480	a,Settling\0
+481	a,Select Speaker\0
+482	a,Stereo Headphones\0
+483	a,Stereo Speaker\0
+484	a,4-channel Speaker\0
+485	a,5.1-channel Speaker\0
+486	a,Party Loot\0
+487	a,Finders Keepers\0
+488	a,Random\0
+489	a,Loot Dist.\0
+490	a,Alliance\0
+491	a,Information\0
+492	a,Action\0
+493	a,Items\0
+494	a,Pet Interface\0
+495	a,Summon Interface\0
+496	a,Spiritshot Used\0
+497	a,Name\0
+498	a,Private Store\0
+499	a,<Private Store - Buy>\0
+500	a,<Private Store - Sell>\0
+501	a,Quantity\0
+502	a,Wish List\0
+503	a,For Sale\0
+504	a,Double Blades\0
+505	a,Servitors\0
+506	a,Pets\0
+507	a,Bartz\0
+508	a,Sieghardt\0
+509	a,Kain\0
+510	a,Lionna\0
+511	a,Erica\0
+512	a,Gustin\0
+513	a,Devianne\0
+514	a,Hindemith\0
+515	a,Teon\0
+516	a,Franz\0
+517	a,Luna\0
+518	a,Kastien\0
+519	a,Airin\0
+520	a,Staris\0
+521	a,Ceriel\0
+522	a,Fehyshar\0
+523	a,Elhwynna\0
+524	a,Ellikia\0
+525	a,Shikken\0
+526	a,Scryde\0
+527	a,Frikios\0
+528	a,Ophylia\0
+529	a,Shakdun\0
+530	a,Tarziph\0
+531	a,Aria\0
+532	a,Esenn\0
+533	a,Elcardia\0
+534	a,Yiana\0
+535	a,Khadia\0
+536	a,Ungoat\0
+537	a,Lv\0
+538	a,Warning\0
+539	a,Teen\0
+540	a,PC/NPC Limit\0
+541	a,Looking for Party\0
+542	a,Upper and Lower Body\0
+543	a,Back\0
+544	a,Next\0
+545	a,Bid\0
+546	a,Cancel bid\0
+547	a,Re-bid\0
+548	a,List of Bidders\0
+549	a,Register item for sale\0
+550	a,Village Name\0
+551	a,Clan\0
+552	a,Ending Date\0
+553	a,Cancel auction\0
+554	a,List\0
+555	a,Minimum Bid\0
+556	a,Region where teleporting is possible\0
+557	a,Send package\0
+558	a,To:\0
+559	a,$Alliance\0
+560	a,Sending list\0
+561	a,Sending fee\0
+562	a,List\0
+563	a,Purchase\0
+564	a,Item information\0
+565	a,Items required\0
+566	a,Auto Code\0
+567	a,Approved\0
+568	a,Waiting\0
+569	a,Lord of alliance\0
+570	a,Date and time of application\0
+571	a,Alliance Name\0
+572	a,Participate\0
+573	a,Withdraw\0
+574	a,Approve\0
+575	a,Cancel\0
+576	a,Clans Attacking\0
+577	a,Clans Defending\0
+578	a,Clans Waiting\0
+579	a,Refuse\0
+580	a,Clan\0
+581	a,Status\0
+582	a,Current Time\0
+583	a,Siege Date\0
+584	a,Undecided\0
+585	a,Automatic setting\0
+586	a,Attack Info.\0
+587	a,Defense Info\0
+588	a,Lord\0
+589	a,Clan\0
+590	a,Alliance\0
+591	a,No alliance\0
+592	a,Alliance\0
+593	a,Siege Information\0
+594	a,Modeling Detail\0
+595	a,No castle owner\0
+596	a,Private Store - Sell\0
+597	a,Private Store - Buy\0
+598	a,Lineage II User Agreement\0
+599	a,Agree\0
+600	a,Disagree\0
+601	a,Ping\0
+602	a,Type\0
+603	a,Quality\0
+604	a,Clan\0
+605	a,Ally\0
+606	a,Game Pad\0
+607	a,Motion Detail\0
+608	a,Auctioneer\0
+609	a,All Items For Sale\0
+610	a,My Items For Sale\0
+611	a,Return\0
+612	a,Gludio Castle\0
+613	a,Dion Castle\0
+614	a,Giran Castle\0
+615	a,Innadril Castle\0
+616	a,Oren Castle\0
+617	a,Aden Castle\0
+618	a,Monster Race Track\0
+619	a,Coliseum\0
+620	a,Front of the Outer Gate of Gludio Castle\0
+621	a,Above the Outer Gate of Gludio Castle\0
+622	a,Front of the Outer Gate of Dion Castle\0
+623	a,Above the Outer Gate of Dion Castle\0
+624	a,Front of the Outer Gate of Giran Castle\0
+625	a,Above the Outer Gate of Giran Castle\0
+626	a,Front of the Outer Gate of Innadril Castle\0
+627	a,Above the Outer Gate of Innadril Castle\0
+628	a,Front of the Outer Gate of Oren Castle\0
+629	a,Above the Outer Gate of Oren Castle\0
+630	a,Front of the Outer Gate of Aden Castle\0
+631	a,Above the Outer Gate of Aden Castle\0
+632	a,Center of the Monster Race Track\0
+633	a,The finish line of the Monster RaceTrack\0
+634	a,Left Side of the Coliseum\0
+635	a,Center of the Coliseum\0
+636	a,Right side of the Coliseum\0
+637	a,Fee\0
+638	a,Dye Information\0
+639	a,Symbol Information\0
+640	a,Change of Basic Ability\0
+641	a,Manufacturing Cost\0
+642	a,Success Rate\0
+643	a,Recipe List\0
+644	a,Creator MP\0
+645	a,Create\0
+646	a,Close\0
+647	a,Resulting Items\0
+648	a,Number of Retained Items\0
+649	a,Recipe Book\0
+650	a,Spectator Area\0
+651	a,Symbol Drawing\0
+652	a,Deleting a Symbol\0
+653	a,Acronym\0
+654	a,Add\0
+655	a,Macro List\0
+656	a,Macro Edit\0
+657	a,More Info.\0
+658	a,Save\0
+659	a,Dye List\0
+660	a,List of Symbols\0
+661	a,Production List\0
+662	a,Recipe Information\0
+663	a,Item Creation\0
+664	a,Game Observation\0
+665	a,Private Creation\0
+666	a,Privileges\0
+667	a,Authorize\0
+668	a,Privileges\0
+669	a,Calculator\0
+670	a,Event Number\0
+671	a,Lotto Numbers\0
+672	a,Selected Name\0
+673	a,Clan Related Privileges\0
+674	a,Join a Clan\0
+675	a,Give a Title\0
+676	a,View Warehouse Contents\0
+677	a,Clan Crest Management\0
+678	a,Clan Hall Related Privileges\0
+679	a,Entrance Privileges\0
+680	a,Other Functions\0
+681	a,Dismiss\0
+682	a,Castle Rights\0
+683	a,Opening a Door\0
+684	a,Other Rights\0
+685	a,Dismiss\0
+686	a,Privileges\0
+687	a,Teleport\0
+688	a,Character Summon\0
+689	a,Chatting Watch\0
+690	a,NPC Search\0
+691	a,Item Search\0
+692	a,Skill Search\0
+693	a,Surveillance\0
+694	a,Submit\0
+695	a,Select a Type\0
+696	a,Immobility\0
+697	a,Recovery Related\0
+698	a,Bug Report\0
+699	a,Quest Related\0
+700	a,Report a Bad User\0
+701	a,Suggestions\0
+702	a,Game Tips\0
+703	a,Operation Related\0
+704	a,Other\0
+705	a,Viewing of Related Information\0
+706	a,Type\0
+707	a,Enter a Petition\0
+708	a,Contents of a Petition\0
+709	a,Eval. Score\0
+710	a,Rec. Remaining\0
+711	a,Macro\0
+712	a,Here I Come\0
+713	a,Half Moon Love\0
+714	a,Everlasting\0
+715	a,Dark Side of the Moon\0
+716	a,Wind Rider\0
+717	a,Shooting Star\0
+718	a,Cyclone Thunder\0
+719	a,Hungry Baby\0
+720	a,Salty Dog\0
+721	a,Raging Revolution\0
+722	a,Valentine Blue\0
+723	a,Light My Fire\0
+724	a,Red Bullet\0
+725	a,Shining Silver\0
+726	a,Over the Top\0
+727	a,Royal Straight\0
+728	a,All Seven\0
+729	a,Nasty Green\0
+730	a,Shortcut\0
+731	a,Typhoon Tiger\0
+732	a,Red Hot\0
+733	a,Galaxy Express\0
+734	a,Best Condition\0
+735	a,Albatross\0
+736	a,Number of Needed Items\0
+737	a,Number of Kept Items\0
+738	a,Manor\0
+739	a,Race Manager\0
+740	u,-_-ㆀ\0
+741	a,In The Process Of Watching A Game\0
+742	a,Ingredient(s)\0
+743	a,Result(s)\0
+744	a,Purchase Price\0
+745	a,Good\0
+746	a,Average\0
+747	a,Bad\0
+748	a,Announcement\0
+749	a,This is an announcement\0
+750	a,Free Community\0
+751	a,This is a Free Community.\0
+752	a,Seresin\0
+753	a,Roien\0
+754	a,Gallint\0
+755	a,Cedric\0
+756	a,Nerufa\0
+757	a,Asterios\0
+758	a,Orfen\0
+759	a,Mitrael\0
+760	a,Thifiel\0
+761	a,Lithra\0
+762	a,Lockirin\0
+763	a,Kakai\0
+764	a,Cadmus\0
+765	a,Athebaldt\0
+766	a,Blackbird\0
+767	a,Ramsheart\0
+768	a,Esthus\0
+769	a,Vasper\0
+770	a,Lancer\0
+771	a,Ashton\0
+772	a,Waytrel\0
+773	a,Waltner\0
+774	a,Tahnford\0
+775	a,Hunter\0
+776	a,Dewell\0
+777	a,Rodemaye\0
+778	a,Ken Rauhel\0
+779	a,Ken Abigail\0
+780	a,Ken Orwen\0
+781	a,Van Holter\0
+782	a,Desperion\0
+783	a,Einhovant\0
+784	a,Schuneimann\0
+785	a,Faris\0
+786	a,Tor\0
+787	a,Carneiar\0
+788	a,Dwyllios\0
+789	a,Baium\0
+790	a,Hallate\0
+791	a,Zaken\0
+792	a,Core\0
+793	a,Clan hall auction test\0
+794	a,Clan hall manager\0
+795	a,Clan hall information\0
+796	a,Consumables\0
+797	a,Manufacturing price\0
+798	a,Random including spoil\0
+799	a,By turn\0
+800	a,By turn including spoil\0
+801	a,Passenger Boat Info.\0
+802	a,Clan home\0
+803	a,Type G\0
+804	a,No distribution\0
+805	a,Production Team\0
+806	a,Read access\0
+807	a,Write access\0
+808	a,Quantity\0
+809	a,Clan Community\0
+810	a,No Access\0
+811	a,List of Articles to Try On\0
+812	a,Selection List\0
+813	a,Cost\0
+814	a,Lords of Dawn\0
+815	a,Army of Dusk\0
+816	a,Seal of Avarice\0
+817	a,Seal of Gnosis\0
+818	a,Seal of Strife\0
+819	a,Level 31 and Below\0
+820	a,Level 42 and Below\0
+821	a,Level 53 and Below\0
+822	a,No Level Limit\0
+823	a,Current Owner\0
+824	a,General\0
+825	a,Festival\0
+826	a,Seal Status\0
+827	a,Seal Description\0
+828	a,Victory\0
+829	a,In Progress\0
+830	a,Highest Score\0
+831	a,Score\0
+832	a,Participant\0
+833	a,Quest Status\0
+834	a,My Current Status\0
+835	a,Cabal\0
+836	a,Seal\0
+837	a,Current Total\0
+838	a,Last Week's Total\0
+839	a,Seal Stones\0
+840	a,Total Score\0
+841	a,Total Rate of Occupation\0
+842	a,Delete Title\0
+843	a,Delete Crest\0
+844	a,Level 64 and Below\0
+845	a,Competition Results\0
+846	a,Tie\0
+847	a,Trying on\0
+848	a,Evaluation of Petitions\0
+849	a,Evaluate\0
+850	a,Very Good\0
+851	a,Good\0
+852	a,Fair\0
+853	a,Poor\0
+854	a,Very Poor\0
+855	a,Customer Satisfaction Rating\0
+856	a,Other Opinions\0
+857	a,Server Selection Information\0
+858	a,Unlimited\0
+859	a,+\0
+860	a,Location\0
+861	a,Repeatable Quest\0
+862	a,One Time Quest\0
+863	a,Solo Quest\0
+864	a,Party Quest\0
+865	a,Location Indicator Available\0
+866	a,None\0
+867	a,Glow Effect A\0
+868	a,Anti-Aliasing\0
+869	a,None\0
+870	a,2X\0
+871	a,4X\0
+872	a,Name\0
+873	a,The Clan One Belongs To\0
+874	a,Close Range Attack Type Fighter\0
+875	a,Remote Range Attack Type Fighter\0
+876	a,Defensive Type Fighter\0
+877	a,Party Assisting Fighter\0
+878	a,Attack Type Wizard\0
+879	a,Healer/Assistant Wizard\0
+880	a,Summoner\0
+881	a,Indicator of the Abnormal State of a Party Member\0
+882	a,The Historical Record of the Seven Seals\0
+883	a,View Rights\0
+884	a,Re-Login\0
+885	a,Map\0
+886	a,Target Loc.\0
+887	a,Current Loc.\0
+888	a,Aden\0
+889	a,Elmore\0
+890	a,Destruction\0
+891	a,Crystallization\0
+892	a,Macro Deletion\0
+893	a,No clan hall exists.\0
+894	a,At Peace\0
+895	a,Clan Action (Alt+N)\0
+896	a,Messenger\0
+897	a,Chat Window Option\0
+898	a,Complete\0
+899	a,Go\0
+900	a,Move\0
+901	a,Information\0
+902	a,Petition Invitation\0
+903	a,Escape\0
+904	a,Friends\0
+905	a,Mail\0
+906	a,Initial State\0
+907	a,Counting In Progress\0
+908	a,Terminate\0
+909	a,Receiver\0
+910	a,Authoring Date\0
+911	a,Author\0
+912	a,Reply\0
+913	a,Deliver\0
+914	a,Store\0
+915	a,Mail Writing\0
+916	a,Scheduled Deletion Date\0
+917	a,Inbox\0
+918	a,Sent Box\0
+919	a,Mail Archive\0
+920	a,Temporary Mail Archive\0
+921	a,Send Global Mail\0
+922	a,Level\0
+923	a,Dawn\0
+924	a,Dusk\0
+925	a,Map (Alt+M)\0
+926	a,Key Security\0
+927	a,Transparent\0
+928	a,3D Arrow\0
+929	a,Oracle of Dusk\0
+930	a,Oracle of Dawn\0
+931	a,Seal Stones\0
+932	a,Turned In\0
+933	a,Ancient Adena\0
+934	a,Cycle\0
+935	a,Possession\0
+936	a,Not In Possession\0
+937	a,Projection\0
+938	a,Refresh\0
+939	a,Back\0
+940	a,Expected Ownership of a Seal Stone\0
+941	a,Necropolis of Sacrifice (Level 20-30)\0
+942	a,Southern Shore of Gludio Territory\0
+943	a,The Pilgrim's Necropolis (Level 30-40)\0
+944	a,Fortress of Resistance, Near Dion Territory\0
+945	a,Necropolis of Worship (Level 40-50)\0
+946	a,Near Alligator Island in Innadril Territory\0
+947	a,The Patriot's Necropolis (Level 50-60)\0
+948	a,Northern Gludio Castle in Gludio Territory\0
+949	a,Necropolis of Devotion (Level 60-70)\0
+950	a,Near Altar of Rites in Dark Forest\0
+951	a,Necropolis of Martyrdom (Level 60-70)\0
+952	a,Giran Territory near Giran Castle\0
+953	a,The Saint's Necropolis (Level 70-80)\0
+954	a,Near Field of Whispers in Innadril Territory\0
+955	a,The Disciple's Necropolis (Level 70-80)\0
+956	a,Near Devastated Castle in Aden Territory\0
+957	a,Catacomb of the Heretic (Level 30-40)\0
+958	a,Near the Execution Grounds in Dion Territory\0
+959	a,Catacomb of the Branded (Level 40-50)\0
+960	a,Near Giran Harbor in Giran Territory\0
+961	a,Catacomb of the Apostate (Level 50-60)\0
+962	a,Near Plains of the Lizardmen in Oren Territory\0
+963	a,Catacomb of the Witch (Level 60-70)\0
+964	a,Near the Forest of Mirrors in Aden Territory\0
+965	a,Catacomb of Dark Omens (Level 70-80)\0
+966	a,Near Dark Elf Village in Oren Territory\0
+967	a,Catacomb of the Forbidden Path (Level 70-80)\0
+968	a,Near Hunters Village in Aden Territory\0
+969	a,Pet Name\0
+970	a,Name exists.\0
+971	a,No name exists.\0
+972	a,Seven Signs Event Period\0
+973	a,Currently Preparing for the Quest Event\0
+974	a,Quest Event Period\0
+975	a,Results Being Tallied\0
+976	a,Seal Validation Period\0
+977	a,System Voice\0
+978	a,Tutorial Voice\0
+979	a,Screenshot\0
+980	a,Bitmap\0
+981	a,High\0
+982	a,Average\0
+983	a,Low\0
+984	a,New\0
+985	a,Rename\0
+986	a,Delete\0
+987	a,Alert when a contact comes online.\0
+988	a,Alert when a message is received.\0
+989	a,Alert when an e-mail is received.\0
+990	a,Play sounds.\0
+991	a,Auto reject contact list invites.\0
+992	a,Hide all chat windows upon minimizing.\0
+993	a,Block\0
+994	a,Change Group\0
+995	a,MSN Messenger Info\0
+996	a,MSN Messenger\0
+997	a,Chat with Friends\0
+998	a,Log out\0
+999	a,Lineage 2 Messenger (Alt+Y)\0
+1000	a,Lineage 2 Messenger\0
+1001	a,Options\0
+1002	a,Chat\0
+1003	a,Log in to .NET Passport\0
+1004	a,E-mail\0
+1005	a,Password\0
+1006	a,Online\0
+1007	a,Offline\0
+1008	a,Back\0
+1009	a,Change Nickname\0
+1010	a,Edit Groups\0
+1011	a,Other Options\0
+1012	a,Number chatting:\0
+1013	a,friend(s)\0
+1014	a,Invite\0
+1015	a,Online\0
+1016	a,Busy\0
+1017	a,Be Right Back\0
+1018	a,Away\0
+1019	a,On the Phone\0
+1020	a,Out to Lunch\0
+1021	a,Appear Offline\0
+1022	a,Benchmark\0
+1023	a,Regeneration\0
+1024	a,Hair Accessory\0
+1025	a,Enter Chat Message\0
+1026	a,Allow chatting after notifying my online status.\0
+1027	a,Block from chatting without disclosing my online status.\0
+1028	a,Add this person to my contact list.\0
+1029	a,Location\0
+1030	a,Lv Limit\0
+1031	a,Party Membership\0
+1032	a,Set Room\0
+1033	a,Kick\0
+1034	a,Loc. Condition\0
+1035	a,Level\0
+1036	a,Party\0
+1037	a,Previous\0
+1038	a,Next\0
+1039	a,List Update\0
+1040	a,Create Room\0
+1041	a,Auto Join\0
+1042	a,Max. Members\0
+1043	a,Min.\0
+1044	a,Max.\0
+1045	a,My Level Range\0
+1046	a,All\0
+1047	a,Near Me\0
+1048	a,Talking Island\0
+1049	a,Gludio\0
+1050	a,Dark Elven Ter.\0
+1051	a,Elven Territory\0
+1052	a,Dion\0
+1053	a,Giran\0
+1054	a,Neutral Zone\0
+1055	a,Lyonn\0
+1056	a,Schuttgart\0
+1057	a,Oren\0
+1058	a,Hunters Village\0
+1059	a,Innadril\0
+1060	a,Aden\0
+1061	a,Party Candidate\0
+1062	a,Room Leader\0
+1063	a,Party Member\0
+1064	a,My Coordinates\0
+1065	a,Standard Coordinates (x, y, z)\0
+1066	a,Ordinate\0
+1067	a,Abscissa\0
+1068	a,Create a Race Track\0
+1069	a,Remove a Race Track\0
+1070	a,Select a Target\0
+1071	a,Lockup a Party\0
+1072	a,Lift a Lockup\0
+1073	a,Temporary Pause\0
+1074	a,Resuming of a Race\0
+1075	a,Start of a Race\0
+1076	a,End of a Race\0
+1077	a,Apply\0
+1078	a,Send\0
+1079	a,Command\0
+1080	a,Ending Message\0
+1081	a,Fence Up\0
+1082	a,Fence Down\0
+1083	a,Team 1 Firecracker\0
+1084	a,Team 2 Firecracker\0
+1085	a,Name of Team 1\0
+1086	a,Name of Team 2\0
+1087	a,Team 1's Party Representative\0
+1088	a,Team 2's Party Representative\0
+1089	a,Race Setup File\0
+1090	a,Command File\0
+1091	a,Formation of Team 1\0
+1092	a,Formation of Team 2\0
+1093	a,Counter\0
+1094	a,Team 1\0
+1095	a,Team 2\0
+1096	a,Message\0
+1097	a,Locking in Progress...\0
+1098	a,Removal in Progress...\0
+1099	a,Creating in Progress...\0
+1100	a,Stopping in Progress...\0
+1101	a,Resuming of the race is in progress...\0
+1102	a,Starting...\0
+1103	a,Ending...\0
+1104	a,Menu of Online Game Commentator\0
+1105	a,Select the location of a fence.\0
+1106	a,Online Game Observer\0
+1107	a,Race Track ID\0
+1108	a,Remaining Time\0
+1109	a,Days\0
+1110	a,Hours\0
+1111	a,Minutes\0
+1112	a,Fishing\0
+1113	a,Current Seeds\0
+1114	a,Current Crops\0
+1115	a,Basic Info\0
+1116	a,Current\0
+1117	a,Next\0
+1118	a,View\0
+1119	a,Seed Purchase\0
+1120	a,Seed Name\0
+1121	a,Residual\0
+1122	a,Sales\0
+1123	a,Sales Price\0
+1124	a,Crop Name\0
+1125	a,Buy\0
+1126	a,Buy Price\0
+1127	a,Reward\0
+1128	a,Type 1\0
+1129	a,Type 2\0
+1130	a,Crop Sales\0
+1131	a,General/Alternative Crop Common, All Territory Common\0
+1132	a,Seed Price\0
+1133	a,Crop Price\0
+1134	a,Reward 1\0
+1135	a,Reward 2\0
+1136	a,Seed on Sale\0
+1137	a,Today Sales\0
+1138	a,Today Price\0
+1139	a,Next Sales\0
+1140	a,Next Price\0
+1141	a,Next Purchase\0
+1142	a,Edit Sales\0
+1143	a,Set Next Day\0
+1144	a,Reset Sales\0
+1145	a,Crop Purchase\0
+1146	a,Today Buy\0
+1147	a,Today Price\0
+1148	a,Today Reward\0
+1149	a,Next Price\0
+1150	a,Next Reward\0
+1151	a,Stop Purchase\0
+1152	a,Crop Sale\0
+1153	a,Territory\0
+1154	a,Remaining\0
+1155	a,My Crops\0
+1156	a,Sales\0
+1157	a,Sell\0
+1158	a,Max Price\0
+1159	a,Duelist\0
+1160	a,Dreadnought\0
+1161	a,Phoenix Knight\0
+1162	a,Hell Knight\0
+1163	a,Sagittarius\0
+1164	a,Adventurer\0
+1165	a,Archmage\0
+1166	a,Soultaker\0
+1167	a,Arcana Lord\0
+1168	a,Cardinal\0
+1169	a,Hierophant\0
+1170	a,Eva's Templar\0
+1171	a,Sword Muse\0
+1172	a,Wind Rider\0
+1173	a,Moonlight Sentinel\0
+1174	a,Mystic Muse\0
+1175	a,Elemental Master\0
+1176	a,Eva's Saint\0
+1177	a,Shillien Templar\0
+1178	a,Spectral Dancer\0
+1179	a,Ghost Hunter\0
+1180	a,Ghost Sentinel\0
+1181	a,Storm Screamer\0
+1182	a,Spectral Master\0
+1183	a,Shillien Saint\0
+1184	a,Titan\0
+1185	a,Grand Khavatari\0
+1186	a,Dominator\0
+1187	a,Doom Cryer\0
+1188	a,Fortune Seeker\0
+1189	a,Maestro\0
+1190	a,Macro List (Alt+R)\0
+1191	a,Count\0
+1192	a,Message\0
+1193	a,View Record\0
+1194	a,Check Clan Hall Location\0
+1195	a,HP Cost\0
+1196	a,Show Region\0
+1197	a,System Message Window\0
+1198	a,Package Sale\0
+1199	a,Remaining Time\0
+1200	a,Quest Name\0
+1201	a,Requirements\0
+1202	a,Repeat\0
+1203	a,Contact NPC\0
+1204	a,Quest Introduction\0
+1205	a,Declare War\0
+1206	a,End War\0
+1207	a,Penalty\0
+1208	a,Set Insignia\0
+1209	a,Delete Insignia\0
+1210	a,Clan War\0
+1211	a,Hero Voice\0
+1212	a,General Manufacture\0
+1213	a,Dwarf Manufacture\0
+1214	a,General Recipe Book\0
+1215	a,Dwarf Recipe Book\0
+1216	a,Private Warehouse\0
+1217	a,Clan Warehouse\0
+1218	a,Castle Warehouse\0
+1219	a,Required EXP\0
+1220	a,Item Enchant\0
+1221	a,Choose Enchant Target\0
+1222	a,Monument of Heroes\0
+1223	a,Party Member\0
+1224	a,Next Sale Limit\0
+1225	a,Next Buy\0
+1226	a,Next Buy Limit\0
+1227	a,All Members\0
+1228	a,Leader Chat\0
+1229	a,Shader\0
+1230	a,HDR Rendering A\0
+1231	a,HDR Rendering B\0
+1232	a,HDR Rendering C\0
+1233	a,Very High\0
+1234	a,High\0
+1235	a,Average\0
+1236	a,Low\0
+1237	a,Very Low\0
+1238	a,Very Wide\0
+1239	a,Wide\0
+1240	a,Average\0
+1241	a,Narrow\0
+1242	a,Very Narrow\0
+1243	a,Goddard Castle\0
+1244	a,In Front of Goddard Castle Outer Door\0
+1245	a,At the Top of Goddard Castle Outer Door\0
+1246	a,Glow Effect B\0
+1247	a,Rune\0
+1248	a,Goddard\0
+1249	a,Lock Camera\0
+1250	a,Replay File Name\0
+1251	a,Replay\0
+1252	a,Move to Arena\0
+1253	a,View the Chat Window\0
+1254	a,Pumping!\0
+1255	a,Reeling!\0
+1256	a,The pumping was successful.\0
+1257	a,The reeling was successful.\0
+1258	a,The pumping failed.\0
+1259	a,The reeling failed.\0
+1260	a,The fish did not take the bait.\0
+1261	a,The fish took the bait.\0
+1262	a,The fishing attempt failed.\0
+1263	a,The allotted time has been exceeded.\0
+1264	a,The fishing was successful.\0
+1265	a,Owner\0
+1266	a,Parties:\0
+1267	a,Members:\0
+1268	a,Quit\0
+1269	a,Status of Being Open to the Public\0
+1270	a,Village\0
+1271	a,Clan (Bid)\0
+1272	a,Delete\0
+1273	a,<Private Store - Package Sale>\0
+1274	a,Forced Petition\0
+1275	a,Server Transfer\0
+1276	a,- Selection -\0
+1277	a,PC Bang Points\0
+1278	a,One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten\0
+1279	a,Ten, Hundred, Thousand, Ten Thousand, Hundred Thousand\0
+1280	a,Ten Thousand, Hundred Million\0
+1281	a,Thousand, Million, Billion\0
+1282	a,Million, thaisuffix1, thaisuffix2\0
+1283	a,findprivatestore\0
+1284	a,General Field\0
+1285	a,Peaceful Zone\0
+1286	a,Siege War Zone\0
+1287	a,Altered Zone\0
+1288	a,Altered Zone\0
+1289	a,Seven Signs Zone\0
+1290	a,PvP Zone\0
+1291	a,D Grade\0
+1292	a,C Grade\0
+1293	a,B Grade\0
+1294	a,A Grade\0
+1295	a,S Grade\0
+1296	a,Hunting Zone\0
+1297	a,Raid\0
+1298	a,Region Info\0
+1299	a,Hunting Zone Name\0
+1300	a,Hunting Zone Type\0
+1301	a,Raid Name\0
+1302	a,Points\0
+1303	a,Region Name\0
+1304	a,Affiliated Territory\0
+1305	a,Rank\0
+1306	a,PC Name\0
+1307	a,Total Score\0
+1308	a,Accumulated Score\0
+1309	a,Search Area\0
+1310	a,Search\0
+1311	a,Clan Reputation Score\0
+1312	a,Territory\0
+1313	a,Fields\0
+1314	a,Dungeon\0
+1315	a,Castle, Town\0
+1316	a,Harbor\0
+1317	a,Clan Hall\0
+1318	a,Arena\0
+1319	a,Other\0
+1320	a,Ranking\0
+1321	a,Clan\0
+1322	a,Member Info\0
+1323	a,Privileges\0
+1324	a,War Info\0
+1325	a,Edit Privileges\0
+1326	a,Edit Crest\0
+1327	a,Title\0
+1328	a,Rank\0
+1329	a,Order of Knights\0
+1330	a,Change Title\0
+1331	a,Change Rank\0
+1332	a,Sponsor\0
+1333	a,Select\0
+1334	a,Dismiss\0
+1335	a,Enter the title you wish to change.\0
+1336	a,(Up to 16 characters)\0
+1337	a,Confirm\0
+1338	a,Manage Clan Crest\0
+1339	a,Current Registered Crest\0
+1340	a,Manage Clan Insignia\0
+1341	a,Current Registered Insignia\0
+1342	a,Cancel\0
+1343	a,Delete Crest\0
+1344	a,Manage Titles\0
+1345	a,Edit $s1's Privileges\0
+1346	a,Warehouse Search\0
+1347	a,Master Rights\0
+1348	a,Manage Ranks\0
+1349	a,Manage Levels\0
+1350	a,Bulletin Board Administration\0
+1351	a,Clan Hall Privileges\0
+1352	a,Entry/Exit Rights\0
+1353	a,Right to Dismiss\0
+1354	a,Use Functions\0
+1355	a,Set Functions\0
+1356	a,Auction\0
+1357	a,Castle Privileges\0
+1358	a,Manor Administration\0
+1359	a,Manage Taxes\0
+1360	a,Manage Siege War\0
+1361	a,Mercenaries\0
+1362	a,Miscellaneous\0
+1363	a,Party\0
+1364	a,Close\0
+1365	a,Status\0
+1366	a,Period\0
+1367	a,Declare War\0
+1368	a,Next Page\0
+1369	a,Expiration Date\0
+1370	a,Clan Skills\0
+1371	a,Clan Structural Diagram\0
+1372	a,Clan Reputation Score\0
+1373	a,Clan Ranking\0
+1374	a,Outside the Top Ranks\0
+1375	a,Top\0
+1376	a,- Edit Privileges\0
+1377	a,System Privileges\0
+1378	a,Waiting List\0
+1379	a,Whisper\0
+1380	a,List Update\0
+1381	a,Rm. Invite\0
+1382	a,Looting\0
+1383	a,General\0
+1384	a,Loot Leader\0
+1385	a,Vagabond\0
+1386	a,Vassal\0
+1387	a,Apprentice\0
+1388	a,Heir\0
+1389	a,Knight\0
+1390	a,Wise Man\0
+1391	a,Baron\0
+1392	a,Viscount\0
+1393	a,Count\0
+1394	a,Marquis\0
+1395	a,Duke\0
+1396	a,Grand Duke\0
+1397	a,King\0
+1398	a,Emperor\0
+1399	a,Main Clan\0
+1400	a,1st Royal Guard\0
+1401	a,2nd Royal Guard\0
+1402	a,1st Order of Knights\0
+1403	a,2nd Order of Knights\0
+1404	a,3rd Order of Knights\0
+1405	a,4th Order of Knights\0
+1406	a,1st Level\0
+1407	a,2nd Level\0
+1408	a,3rd Level\0
+1409	a,4th Level\0
+1410	a,5th Level\0
+1411	a,Main Clan Rank\0
+1412	a,Royal Guard Rank\0
+1413	a,Order of Knights Rank\0
+1414	a,Academy Rank\0
+1415	a,Unknown\0
+1416	a,.\0
+1417	a,GPU Animation\0
+1418	a,Weather Effects\0
+1419	a,Clan Academy\0
+1420	a,Rune Castle\0
+1421	a,In Front of the Outer Castle Gate of Rune Castle\0
+1422	a,Top of the Outer Castle Gate of Rune Castle\0
+1423	a,Schuttgart Castle\0
+1424	a,In Front of the Outer Castle Gate of Schuttgart Castle\0
+1425	a,Top the Outer Castle Gate of Schuttgart Castle\0
+1426	a,Adventurer Guide Book\0
+1427	a,Select a clan relation for invitation.\0
+1428	a,Results\0
+1429	a,Declared\0
+1430	a,Under Attack\0
+1431	a,Apprentice\0
+1432	a,Status\0
+1433	a,Knight Banneret\0
+1434	a,Buy\0
+1435	a,My Exchange List\0
+1436	u,Clan’s Skill Trainer\0
+1437	a,Req. Reputation\0
+1438	a,Captain of the Royal Guard\0
+1439	a,You are currently on standby for partymatching. You are able to receive invitations from other party rooms.\0
+1440	a,Waiting List for Partymatching\0
+1441	a,Remove clan title\0
+1442	a,Points\0
+1443	a,Change\0
+1444	a,Mute all sounds.\0
+1445	a,No Captain exists.\0
+1446	a,Penalty Information\0
+1447	a,Title\0
+1448	a,PC Room Coupon Event\0
+1449	a,Note\0
+1450	a,Relation\0
+1451	a,Affiliation Ranking\0
+1452	a,Academy\0
+1453	a,Individual Ranking\0
+1454	a,No score\0
+1455	a,Useful Information\0
+1456	a,Disable Game Tips\0
+1457	a,A new party room will now be created.\0
+1458	a,A new party room will now be created and characters will be invited.\0
+1459	a,Exit\0
+1460	a,The room settings will be changed.\0
+1461	a,World Info.\0
+1462	a,Find\0
+1463	a,- Cursed Weapon -\0
+1464	a,Demonic Sword Zariche\0
+1465	a,- Select an Affiliation -\0
+1466	a,- Select a Member -\0
+1467	a,Edit Affiliation\0
+1468	a,Change\0
+1469	a,Edit Clan Member's Affiliation\0
+1470	a,Affiliation:\0
+1471	a,Member:\0
+1472	a,Hide Dropped Item(s)\0
+1473	a,NCOTP\0
+1474	a,Enlarge Map\0
+1475	a,Minimize\0
+1476	a,Decline Duels\0
+1477	a,Augment\0
+1478	a,Remove Augmentation\0
+1479	a,Remove\0
+1480	a,Item for Augmentation\0
+1481	a,Varnish\0
+1482	a,Removal Fee\0
+1483	a,Gemstones Needed\0
+1484	a,Command\0
+1485	a,Hide Command On-screen Text\0
+1486	a,Toggle Buff/Debuff\0
+1487	a,Party Window Options\0
+1488	a,Small Party Window\0
+1489	a,<Weapon Specifications>\0
+1490	a,<Augmentation Effects>\0
+1491	a,Unable to Trade/Drop\0
+1492	a,<Shadow Weapon Info>\0
+1493	a,Remaining Mana/Total Mana:\0
+1494	a,Command Channel Information\0
+1495	a,Command Channel\0
+1496	a,View Buffs\0
+1497	a,View Debuffs\0
+1498	a,Disable Buff/Debuff\0
+1499	a,Blood Sword Akamanah\0
+1500	a,Song/Dance\0
+1501	a,
+1502	a,
+1503	a,
+1504	a,
+1505	a,
+1506	a,
+1507	a,
+1508	a,
+1509	a,
+1510	a,
+1511	a,
+1512	a,
+1513	a,
+1514	a,
+1515	a,
+1516	a,
+1517	a,
+1518	a,
+1519	a,
+1520	a,
+1521	a,
+1522	a,
+1523	a,
+1524	a,
+1525	a,
+1526	a,
+1527	a,
+1528	a,
+1529	a,
+1530	a,
+1531	a,
+1532	a,
+1533	a,
+1534	a,
+1535	a,
+1536	a,
+1537	a,
+1538	a,
+1539	a,
+1540	a,
+1541	a,
+1542	a,
+1543	a,
+1544	a,
+1545	a,
+1546	a,
+1547	a,
+1548	a,
+1549	a,
+1550	a,
+1551	a,
+1552	a,
+1553	a,
+1554	a,
+1555	a,
+1556	a,
+1557	a,
+1558	a,
+1559	a,
+1560	a,
+1561	a,
+1562	a,
+1563	a,
+1564	a,
+1565	a,
+1566	a,
+1567	a,
+1568	a,
+1569	a,
+1570	a,
+1571	a,
+1572	a,
+1573	a,
+1574	a,
+1575	a,
+1576	a,
+1577	a,
+1578	a,
+1579	a,
+1580	a,
+1581	a,
+1582	a,
+1583	a,
+1584	a,
+1585	a,
+1586	a,
+1587	a,
+1588	a,
+1589	a,
+1590	a,
+1591	a,
+1592	a,
+1593	a,
+1594	a,
+1595	a,
+1596	a,
+1597	a,
+1598	a,
+1599	a,
+1600	a,
+1601	a,
+1602	a,
+1603	a,
+1604	a,
+1605	a,
+1606	a,
+1607	a,
+1608	a,
+1609	a,
+1610	a,
+1611	a,
+1612	a,
+1613	a,
+1614	a,
+1615	a,
+1616	a,
+1617	a,
+1618	a,
+1619	a,
+1620	a,
+1621	a,
+1622	a,
+1623	a,
+1624	a,
+1625	a,
+1626	a,
+1627	a,
+1628	a,
+1629	a,
+1630	a,
+1631	a,
+1632	a,
+1633	a,
+1634	a,
+1635	a,
+1636	a,
+1637	a,
+1638	a,
+1639	a,
+1640	a,
+1641	a,
+1642	a,
+1643	a,
+1644	a,
+1645	a,
+1646	a,
+1647	a,
+1648	a,
+1649	a,
+1650	a,
+1651	a,
+1652	a,
+1653	a,
+1654	a,
+1655	a,
+1656	a,
+1657	a,
+1658	a,
+1659	a,
+1660	a,
+1661	a,
+1662	a,
+1663	a,
+1664	a,
+1665	a,
+1666	a,
+1667	a,
+1668	a,
+1669	a,
+1670	a,
+1671	a,
+1672	a,
+1673	a,
+1674	a,
+1675	a,
+1676	a,
+1677	a,
+1678	a,
+1679	a,
+1680	a,
+1681	a,
+1682	a,
+1683	a,
+1684	a,
+1685	a,
+1686	a,
+1687	a,
+1688	a,
+1689	a,
+1690	a,
+1691	a,
+1692	a,
+1693	a,
+1694	a,
+1695	a,
+1696	a,
+1697	a,
+1698	a,
+1699	a,
+1700	a,
+1701	a,
+1702	a,
+1703	a,
+1704	a,
+1705	a,
+1706	a,
+1707	a,
+1708	a,
+1709	a,
+1710	a,
+1711	a,
+1712	a,
+1713	a,
+1714	a,
+1715	a,
+1716	a,
+1717	a,
+1718	a,
+1719	a,
+1720	a,
+1721	a,
+1722	a,
+1723	a,
+1724	a,
+1725	a,
+1726	a,
+1727	a,
+1728	a,
+1729	a,
+1730	a,
+1731	a,
+1732	a,
+1733	a,
+1734	a,
+1735	a,
+1736	a,
+1737	a,
+1738	a,
+1739	a,
+1740	a,
+1741	a,
+1742	a,
+1743	a,
+1744	a,
+1745	a,
+1746	a,
+1747	a,
+1748	a,
+1749	a,
+1750	a,
+1751	a,
+1752	a,
+1753	a,
+1754	a,
+1755	a,
+1756	a,
+1757	a,
+1758	a,
+1759	a,
+1760	a,
+1761	a,
+1762	a,
+1763	a,
+1764	a,
+1765	a,
+1766	a,
+1767	a,
+1768	a,
+1769	a,
+1770	a,
+1771	a,
+1772	a,
+1773	a,
+1774	a,
+1775	a,
+1776	a,
+1777	a,
+1778	a,
+1779	a,
+1780	a,
+1781	a,
+1782	a,
+1783	a,
+1784	a,
+1785	a,
+1786	a,
+1787	a,
+1788	a,
+1789	a,
+1790	a,
+1791	a,
+1792	a,
+1793	a,
+1794	a,
+1795	a,
+1796	a,
+1797	a,
+1798	a,
+1799	a,
+1800	a,
+1801	a,
+1802	a,
+1803	a,
+1804	a,
+1805	a,
+1806	a,
+1807	a,
+1808	a,
+1809	a,
+1810	a,
+1811	a,
+1812	a,
+1813	a,
+1814	a,
+1815	a,
+1816	a,
+1817	a,
+1818	a,
+1819	a,
+1820	a,
+1821	a,
+1822	a,
+1823	a,
+1824	a,
+1825	a,
+1826	a,
+1827	a,
+1828	a,
+1829	a,
+1830	a,
+1831	a,
+1832	a,
+1833	a,
+1834	a,
+1835	a,
+1836	a,
+1837	a,
+1838	a,
+1839	a,
+1840	a,
+1841	a,
+1842	a,
+1843	a,
+1844	a,
+1845	a,
+1846	a,
+1847	a,
+1848	a,
+1849	a,
+1850	a,
+1851	a,
+1852	a,
+1853	a,
+1854	a,
+1855	a,
+1856	a,
+1857	a,
+1858	a,
+1859	a,
+1860	a,
+1861	a,
+1862	a,
+1863	a,
+1864	a,
+1865	a,
+1866	a,
+1867	a,
+1868	a,
+1869	a,
+1870	a,
+1871	a,
+1872	a,
+1873	a,
+1874	a,
+1875	a,
+1876	a,
+1877	a,
+1878	a,
+1879	a,
+1880	a,
+1881	a,
+1882	a,
+1883	a,
+1884	a,
+1885	a,
+1886	a,
+1887	a,
+1888	a,
+1889	a,
+1890	a,
+1891	a,
+1892	a,
+1893	a,
+1894	a,
+1895	a,
+1896	a,
+1897	a,
+1898	a,
+1899	a,
+1900	a,
+1901	a,
+1902	a,
+1903	a,
+1904	a,
+1905	a,
+1906	a,
+1907	a,
+1908	a,
+1909	a,
+1910	a,
+1911	a,
+1912	a,
+1913	a,
+1914	a,
+1915	a,
+1916	a,
+1917	a,
+1918	a,
+1919	a,
+1920	a,
+1921	a,
+1922	a,
+1923	a,
+1924	a,
+1925	a,
+1926	a,
+1927	a,
+1928	a,
+1929	a,
+1930	a,
+1931	a,
+1932	a,
+1933	a,
+1934	a,
+1935	a,
+1936	a,
+1937	a,
+1938	a,
+1939	a,
+1940	a,
+1941	a,
+1942	a,
+1943	a,
+1944	a,
+1945	a,
+1946	a,
+1947	a,
+1948	a,
+1949	a,
+1950	a,
+1951	a,
+1952	a,
+1953	a,
+1954	a,
+1955	a,
+1956	a,
+1957	a,
+1958	a,
+1959	a,
+1960	a,
+1961	a,
+1962	a,
+1963	a,
+1964	a,
+1965	a,
+1966	a,
+1967	a,
+1968	a,
+1969	a,
+1970	a,
+1971	a,
+1972	a,
+1973	a,
+1974	a,
+1975	a,
+1976	a,
+1977	a,
+1978	a,
+1979	a,
+1980	a,
+1981	a,
+1982	a,
+1983	a,
+1984	a,
+1985	a,
+1986	a,
+1987	a,
+1988	a,
+1989	a,
+1990	a,
+1991	a,
+1992	a,
+1993	a,
+1994	a,
+1995	a,
+1996	a,
+1997	a,
+1998	a,
+1999	a,
+2000	a,
+2001	a,
+2002	a,
+2003	a,
+2004	a,
+2005	a,
+2006	a,
+2007	a,
+2008	a,
+2009	a,
+2010	a,
+2011	a,
+2012	a,
+2013	a,
+2014	a,
+2015	a,
+2016	a,
+2017	a,
+2018	a,
+2019	a,
+2020	a,
+2021	a,
+2022	a,
+2023	a,
+2024	a,
+2025	a,
+2026	a,
+2027	a,
+2028	a,
+2029	a,
+2030	a,
+2031	a,
+2032	a,
+2033	a,
+2034	a,
+2035	a,
+2036	a,
+2037	a,
+2038	a,
+2039	a,
+2040	a,
+2041	a,
+2042	a,
+2043	a,
+2044	a,
+2045	a,
+2046	a,
+2047	a,
